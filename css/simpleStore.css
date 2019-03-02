@@ -89,6 +89,14 @@ a.hover {
     padding-bottom: 10px;
 }
 
+.item_thumb{
+    transition: transform .2s;
+}
+
+.item_thumb:hover{
+    transform: scale(1.5);
+}
+
 .item_Quantity {
     display: inline-block;
     width: 50px;
