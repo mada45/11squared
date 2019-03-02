@@ -1,0 +1,103 @@
+{
+	"products" : [
+		{
+			"name" : "Monkey and Taylor",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+		    "image" : "https://i.imgur.com/8XIYwsV.jpg",
+			"description" : "An expressive abstract piece using collage, paint and oil pastel"
+		},
+		{
+			"name" : "Crystallize",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/ffQlCuV.jpg",
+			"description" : "A crisply sketched piece"
+		},
+		{
+			"name" : "Beauty and The Man",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/4r7VDCb.jpg",
+			"description" : "Based on the style of Egon Schiele. Sketched work"
+		},
+		{
+			"name" : "Floating Head & Potato",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/39s3H94.jpg",
+			"description" : "Sketched using a variety of pens and pencils"
+		},
+		{
+			"name" : "Lions Fxxking Into Nirvana",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/DRBQWF3.jpg",
+			"description" : "Made using layers of collage"
+		},
+		{
+			"name" : "Endless",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/ND0u07A.jpg",
+			"description" : "Minimalistic sketch with pencils"
+		},
+		{
+			"name" : "Imagination in Two",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/EHIAD4Y.jpg",
+			"description" : "Collage and graphics based piece"
+		},
+		{
+			"name" : "A Moment, Please",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/coHx0rm.jpg",
+			"description" : "Sketch and graphics combination"
+		},
+		{
+			"name" : "Nice to Meet You",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/PSYwiHf.jpg",
+			"description" : "Sketch and graphics combination"
+		},
+		{
+			"name" : "Let Go",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/3D9S0l4.jpg",
+			"description" : "Sketch and graphics combination"
+		},
+		{
+			"name" : "A Symbol",
+			"price" : "33",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.imgur.com/12UnvQz.jpg",
+			"description" : "Sketch and graphics combination"
+		}
+	]
+}
